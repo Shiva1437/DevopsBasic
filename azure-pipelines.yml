@@ -5,7 +5,7 @@
 # Checking Whether build will genarate or not
 
 trigger:
-- main
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
